@@ -12,7 +12,7 @@
    <artifactId>calculator</artifactId>
    <version>0.0.1-SNAPSHOT</version>
    <name>calculator</name>
-   <description>Simple rest calculator</description>
+   <description>Basic Calculator</description>
 
    <properties>
       <java.version>11</java.version>
